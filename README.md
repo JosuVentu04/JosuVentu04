@@ -17,10 +17,8 @@ A complete full-stack platform for selling mobile devices on credit. Includes bi
 </p>
 
 <ul>
-  <li>🧠 <a href="https://github.com/tuusuario/api-backend-database" target="_blank">Backend (Flask + PostgreSQL)</a></li>
-  <li>🖥️ <a href="https://github.com/tuusuario/admin-dashboard" target="_blank">Frontend (React + react-admin)</a></li>
-  <li>📱 <a href="https://github.com/tuusuario/android-device-controller" target="_blank">Android App (Kotlin + Firebase)</a></li>
-  <li>⚙️ <a href="https://github.com/tuusuario/flashing-scripts" target="_blank">Technical Scripts</a></li>
+  <li>🧠 <a href="https://github.com/JosuVentu04/Api-Backend-Database" target="_blank">Backend (Flask + PostgreSQL)</a></li>
+  <li>🖥️ <a href="https://github.com/JosuVentu04/dashboard-react" target="_blank">Frontend (React + react-admin)</a></li>
 </ul>
 
 <p align="left">
